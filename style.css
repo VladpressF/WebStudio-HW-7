@@ -1,0 +1,46 @@
+.nav {
+  color: blue;
+  background-color: whitesmoke;
+  text-decoration: none;
+}
+.efekt {
+  /* ЕФЕКТИВНІ РІШЕННЯ 
+        ДЛЯ ВАШОГО БІЗНЕСУ */
+  color: white;
+  background-color: black;
+  font-size: 44px;
+  font-family: Roboto;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 60px;
+  letter-spacing: 2.64px;
+  word-wrap: break-word;
+  text-align: center;
+}
+.chim  
+/* Чим ми Займаємось */ {
+    color: #212121;
+    font-size: 36px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    letter-spacing: 1.08px;
+    border: black solid 1.2px;
+}
+.kom
+/* НАША КОМАНДА */
+{
+color: black;
+font-size: 34px;
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 1.78px;
+text-align: center;
+}
+.fot
+/* Підвал Сайту  */
+{
+    background-color: #212121;
+    color: aliceblue;
+    text-decoration: white;
+}
+
