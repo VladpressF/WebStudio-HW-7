@@ -1,6 +1,5 @@
 .nav {
-  color: blue;
-  background-color: whitesmoke;
+  color: rgb(0, 234, 255);
   text-decoration: none;
 }
 .efekt {
@@ -39,8 +38,57 @@ text-align: center;
 .fot
 /* Підвал Сайту  */
 {
-    background-color: #212121;
+    background-color: burlywood;
     color: aliceblue;
     text-decoration: white;
 }
 
+
+/* Стилі для кнопки "Замовити Послугу" */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: aqua;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* Це для того Щоб При Натисканні змінювався колір самої кнопки  */
+.button:hover {
+  background-color: aquamarine;
+}
+.foto-cont {
+  display: flex;
+  /* Розподіл по ширині контейнера */
+  justify-content: space-around; 
+}
+.foto1 {
+  width: 100px;
+  height: 200x;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+.foto2 {
+  width: 100px;
+  height: 200x;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.foto3 {
+  width: 100px;
+  height: 200x;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.foto4 {
+  width: 100px;
+  height: 200x;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
