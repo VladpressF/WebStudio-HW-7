@@ -38,9 +38,16 @@ text-align: center;
 .fot
 /* Підвал Сайту  */
 {
-    background-color: burlywood;
+    background-color: black;
     color: aliceblue;
-    text-decoration: white;
+}
+.mail {
+  text-decoration: none;
+  color: white;
+}
+.telg {
+    text-decoration: none;
+    color: white;
 }
 
 
